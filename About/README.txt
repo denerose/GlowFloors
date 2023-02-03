@@ -1,0 +1,1 @@
+A mod for Rimworld adding glowing floors made from Muffaloaf wool. Depends on prior mod adding Muffaloaf animal.
